@@ -6,3 +6,6 @@ function sumar (numero, numeroA) {
 }
 
 console.log(1, 2)
+
+let nombres = ["Nicolas", "Ezequiel", "Rey"];
+/* ya hice un cambio!!! */
